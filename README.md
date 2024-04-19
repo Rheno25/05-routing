@@ -35,6 +35,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ### Jawaban Praktikum 2
 ![Screenshot](assets/2.1.png)
+![Screenshot](assets/2.2.png)
+![Screenshot](assets/2.3.png)
 
 ### Jawaban Praktikum 3
 ![Screenshot](assets/3.1.png)
@@ -42,14 +44,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ### Jawaban Praktikum 4
 ![Screenshot](assets/4.1.png)
-![Screenshot](assets/4.2.png)
-![Screenshot](assets/4.3.png)
-![Screenshot](assets/4.4.png)
-![Screenshot](assets/4.5.png)
-![Screenshot](assets/4.6.png)
-![Screenshot](assets/4.7.png)
-![Screenshot](assets/4.8.png)
-![Screenshot](assets/4.9.png)
-![Screenshot](assets/4.10.png)
-![Screenshot](assets/4.11.png)
-![Screenshot](assets/4.12.png)
